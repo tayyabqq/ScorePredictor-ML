@@ -3,7 +3,7 @@ This is a machine learning mini project I developed during my 2nd year of engine
 
 ML Concepts Used:
 
-Linear Regression
-Data Preprocessing & Cleaning
+Linear Regression,
+Data Preprocessing & Cleaning,
+Feature Engineering,
 Model Evaluation (R² Score, MAE, etc.)
-Feature Engineering
